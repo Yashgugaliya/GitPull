@@ -6,8 +6,8 @@ This is a demo app using github api to fetching all the closed pull request of r
 * Get list of all closed pull request.
 * Get closed date.
 * Get username.
-* Screenshots.
 * List of all closed pull request.
+* 
 # ScreenShot
 <table>
 <thead>
@@ -26,3 +26,6 @@ This is a demo app using github api to fetching all the closed pull request of r
 * Retrofit
 * Glide
 
+# APK
+https://github.com/Yashgugaliya/GitPull/blob/master/app-debug.apk
+  
