@@ -9,10 +9,20 @@ This is a demo app using github api to fetching all the closed pull request of r
 * Screenshots.
 * List of all closed pull request.
 # ScreenShot
-<br>
-<img height= "700" src="https://user-images.githubusercontent.com/47205113/130317417-56a4135d-3a0b-4ed2-bba0-e72337498f43.jpg"> 
-<br>
-
+<table>
+<thead>
+<tr>
+<th align="center">List of all closed pull request</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47205113/130317417-56a4135d-3a0b-4ed2-bba0-e72337498f43.jpg"><img src="https://user-images.githubusercontent.com/47205113/130317417-56a4135d-3a0b-4ed2-bba0-e72337498f43.jpg"" width="400" style="max-width:100%;"></a></td>
+</tr>
+</tbody>
+</table>
+  
 # Library used
 * Retrofit
 * Glide
+
