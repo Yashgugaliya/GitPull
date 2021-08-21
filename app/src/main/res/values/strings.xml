@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Git Pull</string>
+    <string name="title">Title</string>
+    <string name="username">Username</string>
+    <string name="yash_gugaliya">Yash Gugaliya</string>
+    <string name="created_date">Created-Date</string>
+    <string name="closed_date">Closed Date</string>
+</resources>
