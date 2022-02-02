@@ -7,7 +7,6 @@ This is a demo app using github api to fetching all the closed pull request of r
 * Get closed date.
 * Get username.
 * List of all closed pull request.
-* 
 # ScreenShot
 <table>
 <thead>
